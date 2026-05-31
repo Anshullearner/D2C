@@ -322,15 +322,7 @@ function App() {
             PETOHOLIC
           </div>
 
-          {/* 3. Top-left brand label "PETOHOLIC" */}
-          <div className="absolute top-6 left-4 sm:left-8 z-60 select-none">
-            <div className="text-xs font-bold uppercase text-white tracking-[0.18em]">
-              PETOHOLIC
-            </div>
-            <div className="text-[9px] font-medium uppercase text-white/80 tracking-[0.08em] mt-0.5">
-              Happy Pets. Happy Life.
-            </div>
-          </div>
+        
 
           {/* 4. Carousel */}
           <div className="absolute inset-0 z-[3]">
